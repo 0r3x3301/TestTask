@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Githab\\Repositories\\TestTask\\TestTask1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A309951F-4F25-13F9-18D7-8DEAA4A7E25C}|Assembly-CSharp.csproj|d:\\githab\\repositories\\testtask\\testtask1\\assets\\scripts\\holditemtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A309951F-4F25-13F9-18D7-8DEAA4A7E25C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\holditemtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A309951F-4F25-13F9-18D7-8DEAA4A7E25C}|Assembly-CSharp.csproj|D:\\Githab\\Repositories\\TestTask\\TestTask1\\assets\\scripts\\takehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A309951F-4F25-13F9-18D7-8DEAA4A7E25C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\takehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A309951F-4F25-13F9-18D7-8DEAA4A7E25C}|Assembly-CSharp.csproj|d:\\githab\\repositories\\testtask\\testtask1\\assets\\scripts\\itemsspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A309951F-4F25-13F9-18D7-8DEAA4A7E25C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemsspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A309951F-4F25-13F9-18D7-8DEAA4A7E25C}|Assembly-CSharp.csproj|D:\\Githab\\Repositories\\TestTask\\TestTask1\\assets\\scripts\\inputmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A309951F-4F25-13F9-18D7-8DEAA4A7E25C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A309951F-4F25-13F9-18D7-8DEAA4A7E25C}|Assembly-CSharp.csproj|D:\\Githab\\Repositories\\TestTask\\TestTask1\\assets\\scripts\\inputrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A309951F-4F25-13F9-18D7-8DEAA4A7E25C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A309951F-4F25-13F9-18D7-8DEAA4A7E25C}|Assembly-CSharp.csproj|D:\\Githab\\Repositories\\TestTask\\TestTask1\\assets\\scripts\\raycasthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A309951F-4F25-13F9-18D7-8DEAA4A7E25C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\raycasthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemsSpawner.cs",
+              "DocumentMoniker": "D:\\Githab\\Repositories\\TestTask\\TestTask1\\Assets\\Scripts\\ItemsSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemsSpawner.cs",
+              "ToolTip": "D:\\Githab\\Repositories\\TestTask\\TestTask1\\Assets\\Scripts\\ItemsSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemsSpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T06:08:29.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HoldItemTrigger.cs",
+              "DocumentMoniker": "D:\\Githab\\Repositories\\TestTask\\TestTask1\\Assets\\Scripts\\HoldItemTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HoldItemTrigger.cs",
+              "ToolTip": "D:\\Githab\\Repositories\\TestTask\\TestTask1\\Assets\\Scripts\\HoldItemTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HoldItemTrigger.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwCEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:41:02.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TakeHandler.cs",
+              "DocumentMoniker": "D:\\Githab\\Repositories\\TestTask\\TestTask1\\Assets\\Scripts\\TakeHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TakeHandler.cs",
+              "ToolTip": "D:\\Githab\\Repositories\\TestTask\\TestTask1\\Assets\\Scripts\\TakeHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TakeHandler.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwBQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:16:56.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RaycastHandler.cs",
+              "DocumentMoniker": "D:\\Githab\\Repositories\\TestTask\\TestTask1\\Assets\\Scripts\\RaycastHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RaycastHandler.cs",
+              "ToolTip": "D:\\Githab\\Repositories\\TestTask\\TestTask1\\Assets\\Scripts\\RaycastHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RaycastHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:03:58.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputRotation.cs",
+              "DocumentMoniker": "D:\\Githab\\Repositories\\TestTask\\TestTask1\\Assets\\Scripts\\InputRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InputRotation.cs",
+              "ToolTip": "D:\\Githab\\Repositories\\TestTask\\TestTask1\\Assets\\Scripts\\InputRotation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InputRotation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T04:41:52.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputMove.cs",
+              "DocumentMoniker": "D:\\Githab\\Repositories\\TestTask\\TestTask1\\Assets\\Scripts\\InputMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InputMove.cs",
+              "ToolTip": "D:\\Githab\\Repositories\\TestTask\\TestTask1\\Assets\\Scripts\\InputMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InputMove.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T04:26:21.016Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
