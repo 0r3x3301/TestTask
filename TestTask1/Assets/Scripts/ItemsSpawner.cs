@@ -11,7 +11,7 @@ public class ItemsSpawner : MonoBehaviour
     {
         foreach (var spawnPoint in _spawnPoints)
         {
-            if (Random.Range(0, 3) == 0) continue;
+            if (Random.Range(0, 5) == 0) continue;
             Instantiate(_prefabs[Random.Range(0, _prefabs.Length)], spawnPoint.position, Quaternion.identity);
         }
     }

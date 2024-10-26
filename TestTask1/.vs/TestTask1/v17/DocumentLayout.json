@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Githab\\Repositories\\TestTask\\TestTask1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A309951F-4F25-13F9-18D7-8DEAA4A7E25C}|Assembly-CSharp.csproj|D:\\Githab\\Repositories\\TestTask\\TestTask1\\assets\\scripts\\itemsspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A309951F-4F25-13F9-18D7-8DEAA4A7E25C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemsspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A309951F-4F25-13F9-18D7-8DEAA4A7E25C}|Assembly-CSharp.csproj|d:\\githab\\repositories\\testtask\\testtask1\\assets\\scripts\\holditemtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A309951F-4F25-13F9-18D7-8DEAA4A7E25C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\holditemtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A309951F-4F25-13F9-18D7-8DEAA4A7E25C}|Assembly-CSharp.csproj|D:\\Githab\\Repositories\\TestTask\\TestTask1\\assets\\scripts\\takehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A309951F-4F25-13F9-18D7-8DEAA4A7E25C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\takehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A309951F-4F25-13F9-18D7-8DEAA4A7E25C}|Assembly-CSharp.csproj|d:\\githab\\repositories\\testtask\\testtask1\\assets\\scripts\\itemsspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A309951F-4F25-13F9-18D7-8DEAA4A7E25C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemsspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A309951F-4F25-13F9-18D7-8DEAA4A7E25C}|Assembly-CSharp.csproj|D:\\Githab\\Repositories\\TestTask\\TestTask1\\assets\\scripts\\inputmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,33 +42,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ItemsSpawner.cs",
               "DocumentMoniker": "D:\\Githab\\Repositories\\TestTask\\TestTask1\\Assets\\Scripts\\ItemsSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ItemsSpawner.cs",
               "ToolTip": "D:\\Githab\\Repositories\\TestTask\\TestTask1\\Assets\\Scripts\\ItemsSpawner.cs",
               "RelativeToolTip": "Assets\\Scripts\\ItemsSpawner.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T06:08:29.934Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HoldItemTrigger.cs",
               "DocumentMoniker": "D:\\Githab\\Repositories\\TestTask\\TestTask1\\Assets\\Scripts\\HoldItemTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HoldItemTrigger.cs",
               "ToolTip": "D:\\Githab\\Repositories\\TestTask\\TestTask1\\Assets\\Scripts\\HoldItemTrigger.cs",
               "RelativeToolTip": "Assets\\Scripts\\HoldItemTrigger.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAQwCEAAAAqAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACEAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T05:41:02.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TakeHandler.cs",
               "DocumentMoniker": "D:\\Githab\\Repositories\\TestTask\\TestTask1\\Assets\\Scripts\\TakeHandler.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TakeHandler.cs",
@@ -76,8 +76,7 @@
               "RelativeToolTip": "Assets\\Scripts\\TakeHandler.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAkwBQAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T05:16:56.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T05:16:56.272Z"
             },
             {
               "$type": "Document",
